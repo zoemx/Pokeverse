@@ -24,6 +24,7 @@ response.results.forEach((result: { name: string; }) => {
 })
     });
   }
+  
   }
 
 
